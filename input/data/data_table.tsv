@@ -1,0 +1,9 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+825880	UBQ10	polyubiquitin 10	Arabidopsis thaliana	thale cress	3702	NC_003075.7:2717977-2720308	+	chr 4	PROTEIN_CODING	NM_178968.5		2028	NM_178968.5:279-1652	NP_849299.4		457	polyubiquitin 10
+825880	UBQ10	polyubiquitin 10	Arabidopsis thaliana	thale cress	3702	NC_003075.7:2717977-2720308	+	chr 4	PROTEIN_CODING	NM_001084884.5		1713	NM_001084884.5:276-1421	NP_001078353.4		381	polyubiquitin 10
+825880	UBQ10	polyubiquitin 10	Arabidopsis thaliana	thale cress	3702	NC_003075.7:2717977-2720308	+	chr 4	PROTEIN_CODING	NM_001340546.1		923	NM_001340546.1:86-547	NP_001328999.1		153	polyubiquitin 10
+825880	UBQ10	polyubiquitin 10	Arabidopsis thaliana	thale cress	3702	NC_003075.7:2717977-2720308	+	chr 4	PROTEIN_CODING	NM_116771.5		1432	NM_116771.5:86-1231	NP_567291.4		381	polyubiquitin 10
+825880	UBQ10	polyubiquitin 10	Arabidopsis thaliana	thale cress	3702	NC_003075.7:2717977-2720308	+	chr 4	PROTEIN_CODING	NM_202787.4		1204	NM_202787.4:86-1003	NP_974516.4		305	polyubiquitin 10
+825880	UBQ10	polyubiquitin 10	Arabidopsis thaliana	thale cress	3702	NC_003075.7:2717977-2720308	+	chr 4	PROTEIN_CODING	NM_001340547.1		1147	NM_001340547.1:69-986	NP_001328998.1		305	polyubiquitin 10
+825880	UBQ10	polyubiquitin 10	Arabidopsis thaliana	thale cress	3702	NC_003075.7:2717977-2720308	+	chr 4	PROTEIN_CODING	NM_178969.6		1550	NM_178969.6:289-1434	NP_849300.4		381	polyubiquitin 10
+825880	UBQ10	polyubiquitin 10	Arabidopsis thaliana	thale cress	3702	NC_003075.7:2717977-2720308	+	chr 4	PROTEIN_CODING	NM_178970.5		1625	NM_178970.5:51-1424	NP_849301.4		457	polyubiquitin 10

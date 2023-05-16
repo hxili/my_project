@@ -1,0 +1,1 @@
+Here's an exercise that we will need to do with more genes and automate to more genomes. Find the UBQ10 gene in A. thaliana. Find the same 1st intron in a couple other plant genomes. Try to figure out if any of the orthologous introns are conserved
